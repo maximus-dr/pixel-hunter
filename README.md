@@ -17,3 +17,6 @@ $ npm i // Устанавливает все необходимые зависи
 $ npm start // Запускает проект в браузере
 ```
 
+## License
+
+The MIT License, see the included `license.md` file.
