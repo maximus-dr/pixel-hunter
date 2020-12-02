@@ -2,6 +2,9 @@
 
 Игра, в которой нужно отличать реальные фотографии от фотореалистичных картин
 
+## Preview
+![Output sample](https://github.com/ajasmin/camstudio-mousedown-highlight/raw/master/android_vid_test.gif)
+
 ## Installation
 После клонирования проекта в локальный репозиторий необходимо установить зависимости:
 
