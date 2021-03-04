@@ -1,20 +1,17 @@
 # pixel-hunter   :video_game: :game_die:
 
-Игра, в которой нужно отличать реальные фотографии от фотореалистичных картин
+## Description
+This is the game where your task is to recognize which image is a real photo and which is a photorealistic picture
 
-## Preview
-![Output sample](https://github.com/ajasmin/camstudio-mousedown-highlight/raw/master/android_vid_test.gif)
-
-## Installation
-После клонирования проекта в локальный репозиторий необходимо установить зависимости:
-
+## You can try it locally
 ```bash
-$ npm i // Устанавливает все необходимые зависимости
+$ git clone git@github.com:maximus-dr/pixel-hunter.git // Clones a repository into your local directory
 ```
-
-## Start project
 ```bash
-$ npm start // Запускает проект в браузере
+$ npm i // Installs dependencies
+```
+```bash
+$ npm start // Starts the project in browser
 ```
 
 ## License
