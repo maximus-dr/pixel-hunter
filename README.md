@@ -12,7 +12,7 @@ $ git clone git@github.com:maximus-dr/pixel-hunter.git     // Clones a repositor
 $ npm i     // Installs dependencies
 ```
 ```bash
-$ npm start     // Starts the project in browser
+$ npm start     // Starts the project in your browser
 ```
 
 ## License
